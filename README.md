@@ -22,7 +22,11 @@ Subcategory (Found by splitting apart Row N)
 Date Created Conversion (=(((J2/60)/60)/24)+DATE(1970,1,1))
 Data Ended Conversion (=(((I2/60)/60)/24)+DATE(1970,1,1))
 Years (=YEAR(S2)
-Analysis of Parent Categories
+
+ANALYSIS OF PARENT CATEGORIES
+
+![Screen Shot 2021-10-03 at 10 31 53 PM](https://user-images.githubusercontent.com/91299616/135798947-41296c48-754b-482d-8257-f29fc9afd77c.png)
+
 
  
 
@@ -54,7 +58,7 @@ Now looking at the bar graph it verifies that “Theater” has the highest succ
 
 
 
-Analysis of Subcategories
+ANALYSIS
 
  
 (View Table Above)
