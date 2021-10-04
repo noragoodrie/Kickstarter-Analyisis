@@ -10,7 +10,8 @@ This week’s project was largely focused on how to perform an analysis on theat
 
 The best way to start your analysis is looking through the data and understanding what you are working with. You should always check and see how many. Rows and columns you are working with and what the names of the columns are, that way you get the gist of what you are working with.  
 
- 
+![Screen Shot 2021-10-03 at 10 40 53 PM](https://user-images.githubusercontent.com/91299616/135799676-2a0e8e09-843e-4ab9-9007-a570ffba74ce.png)
+
 
 As you can see above the data set first started with columns titled, Names, Blurb, Goal, Pledged, Outcomes, Country, Currency, Deadline, Launched At, Staff Pick, Backers Court, Spotlight and Category/Subcategory.
 I then later added 7 additional data sets that gave the ability to have a deeper understand of the data at hand.
